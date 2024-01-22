@@ -1,0 +1,30 @@
+#start-btn {
+    width: 40%;
+}
+
+#camera {
+    width: 330px;
+    height: 250px;
+    border: 1px solid grey;
+    border-radius: 0.rem;
+}
+
+video {
+    width: 330px;
+    height: 250px;
+}
+
+#logo_img {
+    width: 350px;
+    border-radius: 2rem;
+}
+
+#textbox {
+    width: 300px;
+    height: 245px;
+}
+
+.header {
+    background-color: rgb(238, 184, 145);
+    width: 100%;
+}
